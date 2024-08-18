@@ -1,0 +1,62 @@
+body{
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Roboto Condensed", sans-serif;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: solid 2px rgb(17, 233, 213);
+    font-size: 40px;
+    padding: 20px;
+}
+
+.chamada-video {
+    margin: 2%;
+    opacity: 0.5;
+}
+.chamada-video:hover{
+    opacity: 1;
+}
+.titulo{
+    font-size: 50px;
+    margin: 5%;
+}
+
+.subtitulo{
+    font-size: 25px;
+    margin: 2%;
+}
+
+.anime{
+    font-size: 25px;
+    margin: 5%;
+}
+
+.subtexto{
+    font-size: 20px;
+    margin: 2%;
+}
+.logo img{
+    opacity: 0.5;
+}
+.logo img:hover{
+    opacity: 1;
+}
+.postagens{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.postagens img{
+    opacity: 0.5;
+}
+.postagens img:hover{
+    opacity: 1;
+    border: 1px solid white;
+}
+.postagem{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
