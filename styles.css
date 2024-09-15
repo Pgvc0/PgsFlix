@@ -66,3 +66,14 @@ header{
 .easter-egg:hover{
     opacity: 1;
 }
+.imagem{
+    margin: 5%;
+    display: flex;
+}
+.imagem img{
+    width: 300;
+}
+.tituloB{
+    font-size: 30px;
+    margin: 10%;
+}
