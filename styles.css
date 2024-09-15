@@ -50,6 +50,7 @@ header{
 }
 .postagens img{
     opacity: 0.5;
+    width: 400;
 }
 .postagens img:hover{
     opacity: 1;
@@ -76,4 +77,9 @@ header{
 .tituloB{
     font-size: 30px;
     margin: 10%;
+}
+.nome{
+    font-size: 30px;
+    background: rgb(122, 115, 115);
+    color: black;
 }
