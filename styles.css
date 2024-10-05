@@ -63,6 +63,7 @@ header{
 }
 .easter-egg{
     opacity: 0;
+    width: 50px;
 }
 .easter-egg:hover{
     opacity: 1;
